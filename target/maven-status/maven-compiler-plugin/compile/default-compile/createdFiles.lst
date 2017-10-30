@@ -1,0 +1,15 @@
+com\musicdb\DemoApplication.class
+com\musicdb\repository\SongRepositary.class
+com\musicdb\model\Artist.class
+com\musicdb\model\BaseModel.class
+com\musicdb\model\Song.class
+com\musicdb\service\ArtistService.class
+com\musicdb\repository\AlbumRepository.class
+com\musicdb\service\SongServiceImpl.class
+com\musicdb\service\AlbumService.class
+com\musicdb\service\AlbumServiceImpl.class
+com\musicdb\service\SongService.class
+com\musicdb\controller\MusicDbController.class
+com\musicdb\model\Album.class
+com\musicdb\repository\ArtistRepository.class
+com\musicdb\service\ArtistServiceImpl.class
